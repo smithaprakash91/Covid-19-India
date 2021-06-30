@@ -9,3 +9,4 @@ Overall Analysis
 3. Maharashtra, followed by Karnataka and Tamil Nadu are the top three states 
 with highest percentage of confirmed and deaths.
 4. India started screening for vaccination, where age group between (45-60 years) tops the chart in receiving the dosage.
+5. checkout complete analysis https://tabsoft.co/361Atie
